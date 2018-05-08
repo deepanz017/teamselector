@@ -12,17 +12,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonPropertyOrder({
-    "artwork",
-    "squad",
-    "credits",
-    "id",
-    "name",
-    "points",
-    "type",
-    "isSelected",
-    "role"
-})
 public class Player {
 
     @JsonProperty("artwork")
@@ -36,7 +25,7 @@ public class Player {
     @JsonProperty("name")
     private String name;
     @JsonProperty("points")
-    private Integer points;
+    private double points;
     @JsonProperty("type")
     private Type type;
     @JsonProperty("isSelected")
@@ -97,7 +86,7 @@ public class Player {
     }
 
     @JsonProperty("points")
-    public Integer getPoints() {
+    public double getPoints() {
         return points;
     }
 
