@@ -1,0 +1,1148 @@
+{
+  "players": [
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/139.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8.5,
+      "id": 139,
+      "name": "Ben Laughlin",
+      "points": 57.5,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/684.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8.5,
+      "id": 684,
+      "name": "Dhawal Kulkarni",
+      "points": 46,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/762.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 762,
+      "name": "Anureet Singh",
+      "points": 11,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/989.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8.5,
+      "id": 989,
+      "name": "Jaydev Unadkat",
+      "points": 97,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1125.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 1125,
+      "name": "Ankit-Sharma",
+      "points": 0,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1276.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 1276,
+      "name": "Dushmantha Chameera",
+      "points": 0,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1666.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 1666,
+      "name": "Ish Sodhi",
+      "points": 12,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/2110.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 2110,
+      "name": "Shreyas Gopal",
+      "points": 104.5,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/10012.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 9,
+      "id": 10012,
+      "name": "Jofra Archer",
+      "points": 90,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/15312.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 7,
+      "id": 15312,
+      "name": "Sudhesan Midhun",
+      "points": 0,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1512.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8.5,
+      "id": 1512,
+      "name": "Ankit Rajpoot",
+      "points": 107.5,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1176.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 9,
+      "id": 1669,
+      "name": "Andrew Tye",
+      "points": 165,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1618.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8,
+      "id": 1618,
+      "name": "Mohit Sharma",
+      "points": 49.5,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1690.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8,
+      "id": 1690,
+      "name": "Ben Dwarshuis",
+      "points": 0,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8658.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8,
+      "id": 8658,
+      "name": "Barinder Sran",
+      "points": 42,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/9165.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 7.5,
+      "id": 9165,
+      "name": "Mayank Dagar",
+      "points": 0,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/15141.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8.5,
+      "id": 15141,
+      "name": "Mujeeb Zadran",
+      "points": 156,
+      "type": {
+        "id": 2,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BOWL",
+        "shortName": "BOWL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/681.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 10,
+      "id": 681,
+      "name": "Ajinkya Rahane",
+      "points": 163.5,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1228.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 9.5,
+      "id": 1228,
+      "name": "Sanju Samson",
+      "points": 212.5,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/4741.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8.5,
+      "id": 4741,
+      "name": "Heinrich Klaasen",
+      "points": 10,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8651.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 8651,
+      "name": "Prashant Chopra",
+      "points": 0,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8793.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8.5,
+      "id": 8793,
+      "name": "Rahul Tripathi",
+      "points": 85.5,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/10817.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8.5,
+      "id": 10817,
+      "name": "D'Arcy Short",
+      "points": 96.5,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/16224.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 7.5,
+      "id": 16224,
+      "name": "Aryaman Birla",
+      "points": 0,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/5.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8.5,
+      "id": 5,
+      "name": "Yuvraj Singh",
+      "points": 49,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/641.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8.5,
+      "id": 641,
+      "name": "Manoj Tiwary",
+      "points": 8.5,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/899.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 9,
+      "id": 899,
+      "name": "Aaron Finch",
+      "points": 34.5,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/309.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 10,
+      "id": 309,
+      "name": "Chris Gayle",
+      "points": 227,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1013.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 9,
+      "id": 1013,
+      "name": "David Miller",
+      "points": 31,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1137.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8.5,
+      "id": 1137,
+      "name": "Mayank Agarwal",
+      "points": 98.5,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1236.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 9,
+      "id": 1236,
+      "name": "Karun Nair",
+      "points": 192,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/8902.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8,
+      "id": 8902,
+      "name": "Akshdeep Nath",
+      "points": 0,
+      "type": {
+        "id": 1,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "BAT",
+        "shortName": "BAT"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/873.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 9,
+      "id": 873,
+      "name": "Jos Buttler",
+      "points": 203,
+      "type": {
+        "id": 3,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "WK",
+        "shortName": "WK"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1534.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 10,
+      "id": 1534,
+      "name": "Lokesh Rahul",
+      "points": 290,
+      "type": {
+        "id": 3,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "WK",
+        "shortName": "WK"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1135.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 1135,
+      "name": "Stuart Binny",
+      "points": 4.5,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1161.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 10,
+      "id": 1161,
+      "name": "Ben Stokes",
+      "points": 140.5,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/6821.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8.5,
+      "id": 6821,
+      "name": "Krishnappa Gowtham",
+      "points": 134.5,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/default-player-image.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 7.5,
+      "id": 8784,
+      "name": "Jatin Saxena",
+      "points": 0,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/9163.png"
+        }
+      ],
+      "squad": {
+        "id": 275,
+        "name": "RAJ",
+        "jerseyColor": "#C85808",
+        "shortName": "RAJ"
+      },
+      "credits": 8,
+      "id": 9163,
+      "name": "Mahipal Lomror",
+      "points": 7.5,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/639.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 9,
+      "id": 639,
+      "name": "Ravichandran Ashwin",
+      "points": 131,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1436.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8.5,
+      "id": 1436,
+      "name": "Marcus Stoinis",
+      "points": 68.5,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/1519.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8.5,
+      "id": 1519,
+      "name": "Axar Patel",
+      "points": 50.5,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/5989.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 8,
+      "id": 5989,
+      "name": "Pardeep Sahu",
+      "points": 0,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    },
+    {
+      "artwork": [
+        {
+          "src": "https://d13ir53smqqeyp.cloudfront.net/player-images/11887.png"
+        }
+      ],
+      "squad": {
+        "id": 272,
+        "name": "PNJ",
+        "jerseyColor": "#cfcfcf",
+        "shortName": "PNJ"
+      },
+      "credits": 7.5,
+      "id": 11887,
+      "name": "Manzoor Dar",
+      "points": 0,
+      "type": {
+        "id": 4,
+        "maxPerTeam": 0,
+        "minPerTeam": 0,
+        "name": "ALL",
+        "shortName": "ALL"
+      },
+      "isSelected": false,
+      "role": null
+    }
+  ]
+}
